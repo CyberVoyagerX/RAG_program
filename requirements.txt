@@ -7,3 +7,5 @@ python-dotenv
 zhipuai
 unstructured
 pymupdf
+langchain_openai
+gradio
